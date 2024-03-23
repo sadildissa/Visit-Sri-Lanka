@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etGuideAddress1" type="id">etGuideAddress</item>
+    <item name="hedi" type="id">heding</item>
+    <item name="heading" type="id">Heading</item>
+    <item name="textView4" type="id">textView4</item>
+</resources>
